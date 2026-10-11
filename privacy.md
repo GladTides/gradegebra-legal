@@ -24,8 +24,6 @@ GradeGebra stores the programs, terms, courses, assessments, grading rules and r
 
 Apple processes all App Store purchases. GradeGebra uses RevenueCat, a subscription service, to show purchase options and to check whether Pro features are active. RevenueCat receives an anonymous app user ID and information about your purchases, and may receive technical data such as your IP address. It is not linked to a GradeGebra account, because there are none. See the privacy policies of RevenueCat (https://www.revenuecat.com/privacy) and Apple (https://www.apple.com/legal/privacy/).
 
-[Verify: before publishing, check RevenueCat's current privacy documentation for exactly what it collects, and make sure this section matches.]
-
 ## Reminders
 
 If you turn on assessment reminders, GradeGebra schedules notifications on your device. They are created locally and are not sent through our servers. You can turn them off in the app's Settings, or in your iPhone's notification settings.
